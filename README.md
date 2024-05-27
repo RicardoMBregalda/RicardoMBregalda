@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to My Repository!
 
-<!--
-**RicardoMBregalda/RicardoMBregalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub repo size](https://img.shields.io/github/repo-size/RicardoMBregalda/repository)
+![GitHub contributors](https://img.shields.io/github/contributors/RicardoMBregalda/repository)
+![GitHub stars](https://img.shields.io/github/stars/RicardoMBregalda/repository?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RicardoMBregalda/repository?style=social)
+![GitHub issues](https://img.shields.io/github/issues/RicardoMBregalda/repository)
 
-Here are some ideas to get you started:
+## About Me
+Hello! I am Ricardo Bregalda, a Computer Science student at UCS. I have a strong passion for web development and backend systems. Here you'll find a collection of my projects, contributions, and experiments in these areas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Web Development:** HTML, CSS, JavaScript, Vue.
+- **Backend Development:** Python, REST APIs, PHP, C, Java.
+- **Database Management:** MySQL, PostgreSQL, MongoDB.
+
+## Contact Me
+- Email: [ricardobregalda@example.com](mailto:ricardomeneguzzib@gmail.com)
+- GitHub: [RicardoBregalda](https://github.com/RicardoMBregalda)
