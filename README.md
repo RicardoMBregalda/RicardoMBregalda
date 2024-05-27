@@ -1,4 +1,4 @@
-# Welcome to My Repository!
+# Welcome to my bio!
 
 ## About Me
 Hello! I am Ricardo Bregalda, a Computer Science student at UCS. I have a strong passion for web development and backend systems. Here you'll find a collection of my projects, contributions, and experiments in these areas.
